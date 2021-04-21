@@ -1,0 +1,53 @@
+ID_1,NAME_1,ID_2,NAME_2,provincia_iso
+1,"Andalucía",1,"Almería",AL
+1,"Andalucía",2,"Cádiz",CA
+1,"Andalucía",3,"Córdoba",CO
+1,"Andalucía",4,"Granada",GR
+1,"Andalucía",5,"Huelva",H
+1,"Andalucía",6,"Jaén",J
+1,"Andalucía",7,"Málaga",MA
+1,"Andalucía",8,"Sevilla",SE
+2,"Aragón",9,"Huesca",HU
+2,"Aragón",10,"Teruel",TE
+2,"Aragón",11,"Zaragoza",Z
+3,"Cantabria",12,"Cantabria",S
+4,"Castilla-La Mancha",13,"Albacete",AB
+4,"Castilla-La Mancha",14,"Ciudad Real",CR
+4,"Castilla-La Mancha",15,"Cuenca",CU
+4,"Castilla-La Mancha",16,"Guadalajara",GU
+4,"Castilla-La Mancha",17,"Toledo",TO
+5,"Castilla y León",18,"Ávila",AV
+5,"Castilla y León",19,"Burgos",BU
+5,"Castilla y León",20,"León",LE
+5,"Castilla y León",21,"Palencia",P
+5,"Castilla y León",22,"Salamanca",SA
+5,"Castilla y León",23,"Segovia",SG
+5,"Castilla y León",24,"Soria",SO
+5,"Castilla y León",25,"Valladolid",VA
+5,"Castilla y León",26,"Zamora",ZA
+6,"Cataluña",27,"Barcelona",B
+6,"Cataluña",28,"Girona",GI
+6,"Cataluña",29,"Lleida",L
+6,"Cataluña",30,"Tarragona",T
+7,"Ceuta y Melilla",31,"Ceuta",CE
+7,"Ceuta y Melilla",32,"Melilla",ML
+8,"Comunidad de Madrid",33,"Madrid",M
+9,"Comunidad Foral de Navarra",34,"Navarra",NA
+10,"Comunidad Valenciana",35,"Alicante",A
+10,"Comunidad Valenciana",36,"Castellón",CS
+10,"Comunidad Valenciana",37,"Valencia",V
+11,"Extremadura",38,"Badajoz",BA
+11,"Extremadura",39,"Cáceres",CC
+12,"Galicia",40,"A Coruña",C
+12,"Galicia",41,"Lugo",LU
+12,"Galicia",42,"Ourense",OR
+12,"Galicia",43,"Pontevedra",PO
+13,"Islas Baleares",44,"Baleares",PM
+14,"Islas Canarias",45,"Las Palmas",GC
+14,"Islas Canarias",46,"Santa Cruz de Tenerife",TF
+15,"La Rioja",47,"La Rioja",LO
+16,"País Vasco",48,"Álava",VI
+16,"País Vasco",49,"Guipúzcoa",SS
+16,"País Vasco",50,"Vizcaya",BI
+17,"Principado de Asturias",51,"Asturias",O
+18,"Región de Murcia",52,"Murcia",MU
