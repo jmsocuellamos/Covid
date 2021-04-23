@@ -1,4 +1,4 @@
-sub_region_1,cod_goo_ccaa,ID_1,NAME_1,sub_region_2,ID_2,NAME_2,provincia_iso,cod_goo_pr
+sub_region_1,cod_goo_ccaa,ID_1,NAME_1,sub_region_2,ID_2,NAME_2,provincia_iso,iso-code
 Andalusia,ES-AN,1,Andalucía,Almería,1,Almería,AL,ES-AL
 Andalusia,ES-AN,1,Andalucía,Cádiz,2,Cádiz,CA,ES-CA
 Andalusia,ES-AN,1,Andalucía,Córdoba,3,Córdoba,CO,ES-CO
